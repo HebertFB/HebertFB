@@ -1,15 +1,12 @@
-### Hi, I'm Hebert Farias
+<h1 align="center">Hi, I'm Hebert Farias</h1>
 
 - 🎓 I'm majoring in Computer Science.
 - 💻 Currently studying Bootcamp Fullstack Java + Angular.
-
-<div>
-  <img src="https://komarev.com/ghpvc/?username=HebertFB&style=flat-square">
-</div>
+<img src="https://komarev.com/ghpvc/?username=HebertFB&style=flat-square">
 
 ## Github Stats
 
-<div>
+<div align="center">
   <a href="https://github.com/HebertFB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HebertFB&show_icons=true&include_all_commits=true&theme=react"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertFB&layout=compact&theme=react"/>
